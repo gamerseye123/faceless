@@ -20,4 +20,6 @@ DM me on session: 05039e3953873e577d5d6dd75598f34bdfabfc4c1c4cf81062262c6b453918
 
 # crypto javasriptos
 
-Monero (XMR): ||coming soon||
+Monero (XMR): coming soon
+
+I will never use bitcoin
