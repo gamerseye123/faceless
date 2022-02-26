@@ -18,7 +18,7 @@ youtube: https://www.youtube.com/channel/UCxOfZmfMzVQ77OndpVvM_3Q
 DM me on session: 05039e3953873e577d5d6dd75598f34bdfabfc4c1c4cf81062262c6b4539181f11
 
 
-# crypto javasriptos
+# crypto javascriptos
 
 Monero (XMR): coming soon
 
