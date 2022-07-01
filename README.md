@@ -1,3 +1,7 @@
+## NOTE: I am moving all my stuff to codeberg.org. Please go on there to see updates at https://codeberg.org/faceless/main-page. Thanks.
+
+
+
 # faceless
 main website for my youtube channel faceless
 
